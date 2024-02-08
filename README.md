@@ -1,3 +1,5 @@
-# Java
-Java project
-Toy Language Interpreter
+Language used:
+  - Java
+
+Toy Language Interpreter done during my second year of university.
+
